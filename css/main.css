@@ -1,0 +1,12 @@
+
+#content {
+    width: 800px;
+    height: 800px;
+    border: 2px solid red;
+}
+
+#input-container {
+    position: absolute;
+    top: 0%;
+    left: 850px;
+}
